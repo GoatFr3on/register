@@ -4,6 +4,6 @@
     "email": "mohamedxz3.2021@gmail.com"
   },
   "records": {
-    "CNAME": "ضع هنا قيمة CNAME الخاصة بـ kriolbot.is-a.dev"
+    "A": ["216.198.79.1"]
   }
 }
